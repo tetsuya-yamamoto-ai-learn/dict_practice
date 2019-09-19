@@ -31,6 +31,7 @@ def main():
     # 通天閣タワー
     print(f'{address_books[2]["name"]} 〒{address_books[2]["zipcode"]} {address_books[2]["location"]}')
 
+    #for book in address_books
 
 if __name__ == '__main__':
     main()
